@@ -1,0 +1,12 @@
+body {
+    background: #6190E8;
+    background: -webkit-linear-gradient(to right, #A7BFE8, #6190E8);
+    background: linear-gradient(to right, #A7BFE8, #6190E8);
+}
+.fontTitle{
+color: white;
+text-transform: uppercase;
+}
+.textError{
+    font-size: 1rem;
+}
